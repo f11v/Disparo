@@ -1,5 +1,5 @@
 # VIDEO
-Link de video: 
+Link de video: https://youtu.be/eFM2Of2Du8o
 # APLICACIÓN DE PRINCIPIOS Y ARQUITECTURAS DE SISTEMAS HIPERMEDIA
 Para comenzar realizamos lo basico que consiste en la creacion del terreno, descargar el personaje en tu proyecto y por supuesto un arma.
 
